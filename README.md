@@ -1,3 +1,5 @@
+# Original
+Go here: https://github.com/samfan0429/Destroy_Mac_extended 
 # Name
 Destroy Mac
 
@@ -5,5 +7,5 @@ Destroy Mac
 A web game where the player needs to sneak into different rooms and destroy the computers.
 
 # How to open it
-First download a local server, and move all the files into the server's www folder. Then run the html file on the browser by doing 
-localhost/Destroy_Mac
+First go to the folder that this is in. Make sure to have Node.js downloaded. Use "npm start" in the
+command line.
