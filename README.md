@@ -1,5 +1,5 @@
 # Original
-Go here: [https://github.com/samfan0429/Destroy_Mac_extended](https://github.com/yhryu1030/Destroy_Mac) 
+Go here: [https://github.com/yhryu1030/Destroy_Mac](https://github.com/yhryu1030/Destroy_Mac)
 # Name
 Destroy Mac
 
